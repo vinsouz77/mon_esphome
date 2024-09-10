@@ -2,7 +2,7 @@
   "type": "micro",
   "wake_word": "Jarvis",
   "author": "Vinsouz",
-  "model": "JArvis.tflite",
+  "model": "jharr'vis.tflite",
   "version": 2,
   "micro": {
     "probability_cutoff": 0.97,
