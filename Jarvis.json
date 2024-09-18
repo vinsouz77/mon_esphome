@@ -2,6 +2,7 @@
   "type": "micro",
   "wake_word": "Jarvis",
   "author": "Vinsouz",
+  "website": " ",
   "model": "jar_vis.tflite",
   "version": 2,
   "micro": {
